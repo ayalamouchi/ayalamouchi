@@ -12,6 +12,7 @@
 
 💬 Ask me about **Html, Css, JavaScript... or anything [here](https://github.com/salesp07/ayalamouchi/ayalamouchi)**
 
+⚡ Fun fact: Ada Lovelace, born in 1815, is considered the first computer programmer. She wrote the first algorithm intended to be processed by a machine, envisioning the future of computing long before the modern computer was invented.
 
  </div>
  
