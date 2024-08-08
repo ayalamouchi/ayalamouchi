@@ -47,6 +47,10 @@
 <!-- GitHub Snake Eating Contributions -->
 <h2 align="center" style="color: #3498db;">🐍 GitHub Contributions Snake</h2>
 
+<div align="center">
+    <img src="https://github.com/ayalamouchi/ayalamouchi/blob/output/snake.svg" alt="Top Contributed Repo"/>
+</div>
+
 
 <!-- GitHub Stats -->
 <h2 align="center" style="color: #61dafb;">📊 GitHub Stats:</h2>
