@@ -37,7 +37,7 @@
 <h2 align="center" style="background: linear-gradient(90deg, #ff7e5f, #feb47b); color: #fff; padding: 10px; border-radius: 10px;">⚒️ Languages, Frameworks, & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,php" alt="Skills"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,php,matlab,linux" alt="Skills"/>
     <img src="https://skillicons.dev/icons?i=python,javascript,c" alt="Skills"/>
 </div>
 
