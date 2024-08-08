@@ -76,4 +76,61 @@
 <div align="center">
     <img src="https://github-contributor-stats.vercel.app/api?username=ayalamouchi&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 </div>
-
+<br>
+<table align="center">
+  <thead>
+    <tr>
+      <th colspan="3" width="512">Last Followers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td align="center">
+        <a href="https://example.com/user1" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/174385578?v=4" alt="User1" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Ghofrane7469" target="_blank">Ghofrane7469</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td align="center">
+        <a href="https://example.com/user2" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/96019025?v=4" alt="User2" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/TalelMejri" target="_blank">TalelMejri</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td align="center">
+        <a href="https://example.com/user3" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/150456154?v=4" alt="User3" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sirinekahweji" target="_blank">sirinekahweji</a>
+      </td>
+    </tr>
+      <tr>
+      <td align="center">4</td>
+      <td align="center">
+        <a href="https://example.com/user3" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/168238027?v=4" alt="User3" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AmineAdded" target="_blank">AmineAdded</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td align="center" colspan="2">Maybe You? (can take a few minutes to update)</td>
+    </tr>
+  </tbody>
+</table>
