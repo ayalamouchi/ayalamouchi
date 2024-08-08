@@ -46,9 +46,7 @@
 
 <!-- GitHub Snake Eating Contributions -->
 <h2 align="center" style="color: #3498db;">🐍 GitHub Contributions Snake</h2>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Eating GitHub Contributions"/>
-</div>
+
 
 <!-- GitHub Stats -->
 <h2 align="center" style="color: #61dafb;">📊 GitHub Stats:</h2>
