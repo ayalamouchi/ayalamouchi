@@ -30,7 +30,6 @@
  <p align="center">
   <a href="https://www.map.org.uk"><img src="https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg" alt="Support Palestine"></a>
 </p>
-<br>
 <h3 align="center"> let's play Pokemon together</h3>
 <p align="center">
   
