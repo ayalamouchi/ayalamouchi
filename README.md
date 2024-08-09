@@ -30,6 +30,64 @@
  <p align="center">
   <a href="https://www.map.org.uk"><img src="https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg" alt="Support Palestine"></a>
 </p>
+<br>
+<h3 align="center"> let's play Pokemon together</h3>
+<p align="center">
+  <a href="https://o.charles-chrismann.fr/gba/input">
+    <img src="./assets/gba/top.png">
+  </a>
+  <br>
+  <a href="https://o.charles-chrismann.fr/gba/input">
+    <img src="./assets/gba/top-left.png">
+  </a>
+  <a href="https://o.charles-chrismann.fr/gba/input">
+    <img src="https://o.charles-chrismann.fr/gba/dogif" width="240" height="160">
+  </a>
+  <a href="https://o.charles-chrismann.fr/gba/input">
+    <img src="./assets/gba/top-right.png">
+  </a>
+  <br>
+  <a href="https://o.charles-chrismann.fr/gba/input">
+    <img src="./assets/gba/top-bottom.png">
+  </a>
+  <br>
+  <a href="https://o.charles-chrismann.fr/gba/input?input=6">
+    <img src="./assets/gba/btn-up.png">
+  </a>
+  <a href="https://o.charles-chrismann.fr/gba/input">
+    <img src="./assets/gba/bottom-top-right.png">
+  </a>
+  <br>
+  <a href="https://o.charles-chrismann.fr/gba/input?input=5">
+    <img src="./assets/gba/btn-left.png">
+  </a>
+  <a href="https://o.charles-chrismann.fr/gba/input">
+    <img src="./assets/gba/btn-mid.png">
+  </a>
+  <a href="https://o.charles-chrismann.fr/gba/input?input=4">
+    <img src="./assets/gba/btn-right.png">
+  </a>
+  <a href="https://o.charles-chrismann.fr/gba/input?input=1">
+    <img src="./assets/gba/btn-b.png">
+  </a>
+  <a href="https://o.charles-chrismann.fr/gba/input?input=0">
+    <img src="./assets/gba/btn-a.png">
+  </a>
+  <br>
+  <a href="https://o.charles-chrismann.fr/gba/input?input=7">
+    <img src="./assets/gba/btn-down.png">
+  </a>
+  <a href="https://o.charles-chrismann.fr/gba/input">
+    <img src="./assets/gba/reactange.png">
+  </a>
+  <br>
+  <a href="https://o.charles-chrismann.fr/gba/input?input=2">
+    <img src="./assets/gba/btn-select.png">
+  </a>
+  <a href="https://o.charles-chrismann.fr/gba/input?input=3">
+    <img src="./assets/gba/btn-start.png">
+  </a>
+</p>
 
 <hr/>
 
