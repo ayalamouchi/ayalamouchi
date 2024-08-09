@@ -61,21 +61,6 @@
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayalamouchi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
-
-<h2 align="center" style="color: #f39c12;">🏆 GitHub Trophies</h2>
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayalamouchi&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
-<h2 align="center" style="color: #e74c3c;">✍️ Random Dev Quote</h2>
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-<h2 align="center" style="color: #2ecc71;">🔝 Top Contributed Repo</h2>
-<div align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=ayalamouchi&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
-</div>
 <br>
 <table align="center">
   <thead>
@@ -134,3 +119,18 @@
     </tr>
   </tbody>
 </table>
+
+<h2 align="center" style="color: #f39c12;">🏆 GitHub Trophies</h2>
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ayalamouchi&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+<h2 align="center" style="color: #e74c3c;">✍️ Random Dev Quote</h2>
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+<h2 align="center" style="color: #2ecc71;">🔝 Top Contributed Repo</h2>
+<div align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=ayalamouchi&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+</div>
