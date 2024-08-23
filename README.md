@@ -13,6 +13,7 @@
 
 <!-- Fun Fact and Contact -->
 <div align="center" style="border: 2px solid #f0f0f0; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
+    <p>👩‍💻 I am currently studying at the Higher Institute of Technological Studies in Bizerte, and I am also the Human Resources Director of the CS Chapter at the IEEE ISET Bizerte Student Branch.</p>
     <p><strong>⚡ Fun fact:</strong> Ada Lovelace, born in 1815, is considered the first computer programmer. She wrote the first algorithm intended to be processed by a machine, envisioning the future of computing long before the modern computer was invented.</p>
 
   💬 Ask me about **Html, Css, JavaScript... or anything [here](https://github.com/salesp07/ayalamouchi/ayalamouchi)**
