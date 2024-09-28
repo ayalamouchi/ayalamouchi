@@ -84,7 +84,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,php,matlab,linux,vue" alt="Skills"/>
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,oracle" alt="Skills"/>
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,xd,bash,qt" alt="Skills"/>
 </div>
 
 <br/>
